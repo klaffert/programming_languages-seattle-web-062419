@@ -11,7 +11,6 @@ end
 end
 new_hash[:javascript][:style] << :oo
 new_hash
-binding.pry
 end
 
 
